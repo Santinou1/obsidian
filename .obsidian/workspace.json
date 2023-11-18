@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "012306ff7b2dee05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contenido para ver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduccion-A-Python/Clase-1/Comentarios.md",
+                "file": "contenido para ver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduccion-A-Python/Clase-1/Comentarios.md",
+                "file": "contenido para ver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduccion-A-Python/Clase-1/Comentarios.md"
+                "file": "contenido para ver.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ade14352a2a9960e",
+  "active": "012306ff7b2dee05",
   "lastOpenFiles": [
+    "Introduccion-A-Python/Clase-1/Comentarios.md",
+    "contenido para ver.md",
     "Introduccion-A-Ciberseguridad/Clase-1/Seguridad de la Información vs. Seguridad Informática vs. Ciberseguridad.md",
     "Introduccion-A-Python/Clase-1/Tipos de Programas.md",
     "Introduccion-A-Ciberseguridad/Clase-1",
@@ -157,7 +172,6 @@
     "Introduccion-A-Ciberseguridad/Clase-1/Ejemplos Seguridad Informatica.md",
     "Introduccion-A-Ciberseguridad/Clase-1/Ejemplos Seguridad de la Informacion.md",
     "Introduccion-A-Ciberseguridad/Clase-1/Ejemplos CiberSeguridad.md",
-    "Introduccion-A-Python/Clase-1/Comentarios.md",
     "Introduccion-A-Python/Clase-1/print.md",
     "Introduccion-A-Python/Clase-1/Diferencias lenguaje compilado e interpretado.md",
     "Introduccion-A-Python/Clase-1/Expresiones.md",

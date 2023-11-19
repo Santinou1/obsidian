@@ -4,35 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "2a5994160d07a1bb",
+        "id": "784d5312b3c0b915",
         "type": "tabs",
         "children": [
           {
-            "id": "92dd07434b6df257",
+            "id": "0fbc055fd0f07063",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9577cba57ce9621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduccion-A-Python/Clase-1/Comentarios.md",
+                "file": "Ciberseguridad-Udemy/Como conectarse a la VPN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "012306ff7b2dee05",
+            "id": "a54bcb2e368ba367",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contenido para ver.md",
+                "file": "Ciberseguridad-Udemy/Como conectarse a la VPN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contenido para ver.md",
+                "file": "Ciberseguridad-Udemy/Como conectarse a la VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contenido para ver.md",
+                "file": "Ciberseguridad-Udemy/Como conectarse a la VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contenido para ver.md"
+                "file": "Ciberseguridad-Udemy/Como conectarse a la VPN.md"
               }
             }
           }
@@ -159,12 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "012306ff7b2dee05",
+  "active": "ade14352a2a9960e",
   "lastOpenFiles": [
-    "Introduccion-A-Python/Clase-1/Comentarios.md",
     "contenido para ver.md",
-    "Introduccion-A-Ciberseguridad/Clase-1/Seguridad de la Información vs. Seguridad Informática vs. Ciberseguridad.md",
+    "Ciberseguridad-Udemy/Errores de Permisos.md",
+    "Ciberseguridad-Udemy/Como conectarse a la VPN.md",
+    "Ciberseguridad-Udemy",
+    "Introduccion-A-Python/Clase-1/Comentarios.md",
+    "2023-11-17.md",
+    "Introduccion-A-Python/Clase-1/Diferencias lenguaje compilado e interpretado.md",
     "Introduccion-A-Python/Clase-1/Tipos de Programas.md",
+    "Introduccion-A-Python/Clase-1/Expresiones.md",
+    "Introduccion-A-Ciberseguridad/Clase-1/Seguridad de la Información vs. Seguridad Informática vs. Ciberseguridad.md",
+    "Untitled.canvas",
     "Introduccion-A-Ciberseguridad/Clase-1",
     "Introduccion-A-Python/Clase-1",
     "Introduccion-A-Ciberseguridad/Clase-1/Ramas dentro de CiberSeguridad.md",
@@ -173,8 +188,6 @@
     "Introduccion-A-Ciberseguridad/Clase-1/Ejemplos Seguridad de la Informacion.md",
     "Introduccion-A-Ciberseguridad/Clase-1/Ejemplos CiberSeguridad.md",
     "Introduccion-A-Python/Clase-1/print.md",
-    "Introduccion-A-Python/Clase-1/Diferencias lenguaje compilado e interpretado.md",
-    "Introduccion-A-Python/Clase-1/Expresiones.md",
     "Introduccion-A-Python/Clase-1/IMG/Pasted image 20231116234926.png",
     "Pasted image 20231117203531.png",
     "Pasted image 20231117203535.png",

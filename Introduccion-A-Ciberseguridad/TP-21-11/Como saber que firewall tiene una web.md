@@ -10,7 +10,7 @@ nslookup argentina.gob.ar
 ```
 
 
-![[Pasted image 20231122124818.png]]
+[[Pasted image 20231122124818.png]]
 
 ahi podemos ver la ip del dns.
 
@@ -24,7 +24,7 @@ wafw00f 104.26.5.183
 
 Y haciendo eso ya podriamos visualizar el firewall.
 
-![[Pasted image 20231122130832.png]]
+[[Pasted image 20231122130832.png]]
 
 Sabiendo el firewall podemos buscar las vulnerabilidades en google e intentar bypassearlo.
 

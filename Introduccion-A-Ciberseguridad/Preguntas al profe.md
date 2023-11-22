@@ -1,4 +1,4 @@
-- Hay jerarquias de red? Por ejemplo si yo con mi pcm e conecto a la red de mi hogar y hago un escaneo para ver todos los dispositivos que estan conectados, tambien lo puede hacer otra persona por ejemplo que tiene mi wifi y lo hace con su celular ?
+- Hay jerarquias de red? Por ejemplo si yo con mi pc me conecto a la red de mi hogar y hago un escaneo para ver todos los dispositivos que estan conectados, tambien lo puede hacer otra persona por ejemplo que tiene mi wifi y lo hace con su celular ?
 Todos tienen el poder de hacer un escaneo?
 
 - Que  pasa si en mi domicilio o en algun lugar excedemos 256 dispositivos que seria el maximo de dispositivos en mi ultimo octeto.

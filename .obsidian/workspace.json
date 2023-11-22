@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39615b53abbec3c3",
+        "id": "d225acf9d5710ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "42970789a45e573b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6ebd833e2e029a13",
+            "id": "cda0b47377c8aa16",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,14 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ebd833e2e029a13",
+  "active": "cda0b47377c8aa16",
   "lastOpenFiles": [
-    "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/IP Publica vs IP Privada.md",
+    "Introduccion-A-Ciberseguridad/TP-21-11/Marcas de firewall.md",
+    "Introduccion-A-Ciberseguridad/TP-21-11/Como saber que firewall tiene una web.md",
+    "Introduccion-A-Ciberseguridad/TP-21-11/IMG/Pasted image 20231122124818.png",
+    "Ruta.md",
+    "Introduccion-A-Ciberseguridad/TP-21-11/IMG/Pasted image 20231122130832.png",
+    "Introduccion-A-Ciberseguridad/TP-21-11/IMG",
+    "Pasted image 20231122124729.png",
+    "Tarea.md",
+    "Introduccion-A-Ciberseguridad/TP-21-11",
+    "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/Modelo TCP IP.md",
+    "Introduccion-A-Ciberseguridad/Clase-2/Objetivos de la Seguridad Informatica.md",
+    "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/IP.md",
+    "Introduccion-A-Ciberseguridad/Preguntas al profe.md",
+    "Introduccion-A-Ciberseguridad/Clase-2/Como hacer un escaneo de red.md",
+    "Pasted image 20231122093326.png",
+    "Introduccion-A-Ciberseguridad/Clase-1/Ejemplos CiberSeguridad.md",
+    "Introduccion-A-Ciberseguridad/Clase-2",
+    "Introduccion-A-Ciberseguridad/IMG/Pasted image 20231122093118.png",
     "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/Protocolo IP.md",
+    "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/IP Publica vs IP Privada.md",
     "Ciberseguridad-Udemy/IMG/Pasted image 20231121110016.png",
     "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/Mascara Red.md",
     "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/Protocolo.md",
-    "Ruta.md",
     "Ciberseguridad-Udemy/IMG/Pasted image 20231121105425.png",
     "Ciberseguridad-Udemy/IMG/Pasted image 20231121104834.png",
     "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/MAC.md",
@@ -174,35 +182,19 @@
     "Introduccion-A-Ciberseguridad/Clase-1/Ramas dentro de CiberSeguridad.md",
     "Ciberseguridad-Udemy/IMG/Pasted image 20231121102421.png",
     "Ciberseguridad-Udemy/IMG/Pasted image 20231121102124.png",
-    "Ciberseguridad-Udemy/IMG/Pasted image 20231121102157.png",
-    "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/IP.md",
     "Untitled 1.md",
     "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/TCP IP VS OSI.md",
-    "Ciberseguridad-Udemy/IMG/Pasted image 20231121092212.png",
     "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/Servicios.md",
-    "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/Modelo TCP IP.md",
     "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/Que es una red.md",
     "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/Introduccion.md",
-    "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/EJEMPLO Autopista de Autos.md",
-    "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes/Cuantos tipos de redes existen.md",
-    "Pasted image 20231121081207.png",
-    "Pasted image 20231121081351.png",
-    "Ciberseguridad-Udemy/IMG/Pasted image 20231121081052.png",
     "Ciberseguridad-Udemy/Dia 3/Introduccion a Redes",
     "Ciberseguridad-Udemy/Dia 3",
-    "Ciberseguridad-Udemy/Dia 2/Modelo-Osi/Capas del Modelo OSI.md",
     "Ciberseguridad-Udemy/Dia 1",
     "Ciberseguridad-Udemy/Dia 2",
-    "Ciberseguridad-Udemy/Dia 2/Modelo-Osi/Conclusion Modelo Osi.md",
-    "Ciberseguridad-Udemy/Dia 2/Modelo-Osi/Introduccion al Modelo OSI.md",
-    "Ciberseguridad-Udemy/Dia 2/Modelo-Osi/Que es una Red.md",
     "Ciberseguridad-Udemy/IMG",
     "Ciberseguridad-Udemy/Dia 2/Modelo-Osi",
     "Ciberseguridad-Udemy",
     "Untitled.canvas",
-    "Introduccion-A-Ciberseguridad/Clase-1",
-    "Introduccion-A-Python/Clase-1",
-    "Introduccion-A-Ciberseguridad/Clase-1/IMG",
     "Sin título 1.canvas",
     "Sin título.canvas"
   ]

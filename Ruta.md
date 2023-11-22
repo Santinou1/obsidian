@@ -53,10 +53,10 @@
 ----> IP Publica Y Privada. [[IP Publica vs IP Privada]]
 
 #### Introducción a Ciberseguridad 
---->
---->
---->
-
+---> [[Objetivos de la Seguridad Informatica]]
+---> [[Como hacer un escaneo de red]]
+---> [[Como saber que firewall tiene una web]]
+---> [[Marcas de firewall]]
 #### Introducción A Python
 --->
 --->

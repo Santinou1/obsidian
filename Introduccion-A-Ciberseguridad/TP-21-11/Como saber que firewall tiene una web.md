@@ -24,7 +24,7 @@ wafw00f 104.26.5.183
 
 Y haciendo eso ya podriamos visualizar el firewall.
 
-[[Pasted image 20231122130832.png]]
+![Pasted image 20231122130832.png](https://raw.githubusercontent.com/Santinou1/obsidian/main/Introduccion-A-Ciberseguridad/TP-21-11/IMG/Pasted%20image%2020231122130832.png)
 
 Sabiendo el firewall podemos buscar las vulnerabilidades en google e intentar bypassearlo.
 

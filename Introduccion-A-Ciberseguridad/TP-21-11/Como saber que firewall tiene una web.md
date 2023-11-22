@@ -10,7 +10,7 @@ nslookup argentina.gob.ar
 ```
 
 
-[[Pasted image 20231122124818.png]] (Introduccion-A-Ciberseguridad/TP-21-11/IMG/Pasted image 20231122124818.png)
+[[Pasted image 20231122124818.png]] (/Introduccion-A-Ciberseguridad/TP-21-11/IMG/Pasted image 20231122124818.png)
 
 ahi podemos ver la ip del dns.
 

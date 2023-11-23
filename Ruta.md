@@ -1,3 +1,6 @@
+***
+Esta va a ser mi ruta para transformarme en un SysAdmin y Pentester
+***
 
 16-11-2023  (3 Horas dedicadas)
 #### Introducción A Python
@@ -38,7 +41,7 @@
 
 ***
 
-21-11-202 (8 Horas dedicadas)
+21-11-202 (5 Horas dedicadas)
 
 #### Ciberseguridad Curso de Udemy
 
@@ -52,14 +55,35 @@
 ---> Protocolo IP [[Protocolo IP]]
 ----> IP Publica Y Privada. [[IP Publica vs IP Privada]]
 
+
+
+
+*** 
+
+22-11-2023 (3 Horas Dedicadas)
 #### Introducción a Ciberseguridad 
 ---> [[Objetivos de la Seguridad Informatica]]
 ---> [[Como hacer un escaneo de red]]
 ---> [[Como saber que firewall tiene una web]]
 ---> [[Marcas de firewall]]
-#### Introducción A Python
---->
---->
---->
 
-*** 
+***
+
+23-11-2023 (4 Horas)
+#### Introducción A Python 
+---> [[Operadores Aritmeticos]]
+---> [[Operadores Logicos]]
+---> [[Operadores de Comparacion]]
+---> [[Variables]]
+---> [[Tipos de Datos]]
+---> [[Funcion Type]]
+---> [[Ejercicios]]
+---> [[Condicional]]
+
+#### Ciberseguridad Curso de Udemy
+---> [[Vulnerabilidad y Exploit]]
+---> [[Tipos de explotaciones]]
+---> [[Netcat]]
+---> [[Como hacer una conexion inversa con nc]]
+---> [[Como hacer una conexion directa con nc]]
+---> [[Como hacer una conexion del lado del cliente]]
